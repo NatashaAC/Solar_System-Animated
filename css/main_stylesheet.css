@@ -1,0 +1,12 @@
+body, html {
+    background-image: radial-gradient(circle, #000052, #00003D, #000022, #000014);
+}
+
+#solarSystem {
+    background-image: radial-gradient(circle, #00003D,#000022);
+    border-radius: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
